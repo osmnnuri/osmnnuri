@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://osmnnuri.github.io"><img src="https://img.shields.io/badge/Portföy-osmnnuri.github.io-26A69A?style=flat&logo=githubpages&logoColor=white" alt="Portföy"></a>
+  <a href="https://www.linkedin.com/in/osman-nuri-ya%C5%9Far-59901a324/"><img src="https://img.shields.io/badge/LinkedIn-Osman%20Nuri%20YA%C5%9EAR-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:osmannuriyasar57@gmail.com"><img src="https://img.shields.io/badge/E--posta-osmannuriyasar57%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="E-posta"></a>
 </p>
 
@@ -88,6 +89,6 @@ test ve dağıtım.
 
 ## 📫 İletişim
 
-**[osmnnuri.github.io](https://osmnnuri.github.io)** · osmannuriyasar57@gmail.com
+**[osmnnuri.github.io](https://osmnnuri.github.io)** · [LinkedIn](https://www.linkedin.com/in/osman-nuri-ya%C5%9Far-59901a324/) · osmannuriyasar57@gmail.com
 
 Proje, iş birliği ya da staj fırsatları için ulaşabilirsiniz.
